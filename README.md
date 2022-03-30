@@ -1,2 +1,2 @@
 # duckyscripts
-my scripts for usb rubber ducky
+My scripts for th usb rubber duck
